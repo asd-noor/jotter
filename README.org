@@ -3,7 +3,7 @@
 #+EMAIL: mail-me@asaduzzaman-noor.com
 
 * Simple Notetaking
-This app is made as an enhanced alternative for simple note taking app such as Notepad on Windows.
+This app (planned as cross-platform) is made as an enhanced alternative for simple note taking app such as Notepad on Windows.
 
 #+BEGIN_QUOTE
 This one is a practice project.
