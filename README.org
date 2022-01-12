@@ -1,4 +1,6 @@
 #+TITLE: Readme
+#+AUTHOR: Asaduzzaman Noor
+#+EMAIL: mail-me@asaduzzaman-noor.com
 
 * Simple Notetaking
 This app is made as an enhanced alternative for simple note taking app such as Notepad on Windows.
